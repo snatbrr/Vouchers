@@ -1,0 +1,15 @@
+#You can add as many vouchers as you want using the same format.
+#You must have a '' after the first command.
+#Example:
+#
+#commands:
+#- 'gamemode survival %player%'
+#- ''
+
+
+TestVoucher:
+  name: "Test Voucher"
+  commands:
+    -
+    -
+    -

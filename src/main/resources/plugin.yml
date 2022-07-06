@@ -1,0 +1,8 @@
+name: Vouchers
+version: '${project.version}'
+main: com.snat.vouchers.Voucher
+api-version: 1.13
+authors: [ snat ]
+description: A plugin that allows you to redeem vouchers which gives you items!
+commands:
+  voucher:
